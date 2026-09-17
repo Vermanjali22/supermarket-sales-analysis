@@ -244,6 +244,31 @@ These charts made it easier to see differences and patterns in the dataset.
 
 
 
+## Visualizations
+
+### Sales by Product Line
+
+![Sales by Product Line](images/product_line_sales.png)
+
+### Sales by Branch
+
+![Sales by Branch](images/branch_sales.png)
+
+### Sales by Payment Method
+
+![Sales by Payment Method](images/payment_method_sales.png)
+
+### Quantity Sold by Product Line
+
+![Quantity Sold by Product Line](images/product_quantity.png)
+
+### Sales Over Time
+
+![Sales Over Time](images/sales_over_time.png)
+
+
+
+
 \## What I Learned
 
 
